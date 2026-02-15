@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Typa Girl",
+  "base_artist": "BLACKPINK",
+  "createdAt": "2026-02-15T13:12:39.442203Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Typa Girl",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/01_Typa_Girl_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Typa Girl (Original Mix)",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/02_Typa_Girl_(Original_Mix)_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Typa Girl",
+      "artist": "Southstar",
+      "has_synced": true,
+      "path": "select/03_Typa_Girl_Southstar.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "BLACKPINK - ‘Typa Girl’ (Official Audio)",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/04_BLACKPINK_-_‘Typa_Girl’_(Official_Audio)_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Typa Girl - Blackpink_128-",
+      "artist": "Blackpink",
+      "has_synced": true,
+      "path": "select/05_Typa_Girl_-_Blackpink_128-_Blackpink.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "BLACKPINK - ‘Typa Girl’ (Official Audio)",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/06_BLACKPINK_-_‘Typa_Girl’_(Official_Audio)_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Typa Girl (Explicit ver.)",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/07_Typa_Girl_(Explicit_ver.)_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "BLACKPINK - Typa Girl (Lyrics)",
+      "artist": "Cakes & Eclairs",
+      "has_synced": true,
+      "path": "select/08_BLACKPINK_-_Typa_Girl_(Lyrics)_Cakes_&_Eclairs.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Typa Girl",
+      "artist": "southstar",
+      "has_synced": true,
+      "path": "select/09_Typa_Girl_southstar.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Typa Girl",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/10_Typa_Girl_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "27.Typa Girl",
+      "artist": "southstar",
+      "has_synced": true,
+      "path": "select/11_27.Typa_Girl_southstar.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Typa Girl (Paused)",
+      "artist": "southstar",
+      "has_synced": true,
+      "path": "select/12_Typa_Girl_(Paused)_southstar.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Typa Girl",
+      "artist": "블랙핑크 (BLΛƆKPIИK)",
+      "has_synced": true,
+      "path": "select/13_Typa_Girl_블랙핑크_(BLΛƆKPIИK).lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Typa Girl",
+      "artist": "Song, BLACKPINK",
+      "has_synced": true,
+      "path": "select/14_Typa_Girl_Song,_BLACKPINK.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Typa Girl",
+      "artist": "BLACKPINK",
+      "has_synced": false,
+      "path": "select/pl_01_Typa_Girl_BLACKPINK.txt"
+    }
+  ]
+}
